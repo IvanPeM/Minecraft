@@ -1,13 +1,15 @@
-# Como enviar todo a un repositorio a GitHub
+# Tutorial de Visual a GItHub
 
-## Equipo local
+## Que tienes que hacer en el Pc ?
 ***
 1. Se tiene que descargar [git](https://git-scm.com/download/win) en el propio ordenador
-2. En Visual Studio descargar dos plugins que son GitLens y Git Graph
+2. En Visual Studio descargar dos plugins que son ```GitLens``` y ```Git Graph```
 3. Y reiniciar el ordenador
 
+### En la terminal
+***
 
-En Visual se tiene que solo abrir una sola carpeta y trabajar solo con esa. Al estar dentro en la terminal utilizaremos este comando
+En Visual se tiene que solo abrir una sola carpeta y trabajar solo con esa; al estar dentro en la terminal utilizaremos este comando
 
 ```
 $ git init
@@ -29,16 +31,14 @@ git remote add origin (enlace del repositorio)
 |---|:---:|---:|
 |Hola|Hola|Hola|
 
-### Screenshot
+***
 ![Image text](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png)
 
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+
 ## FAQs
 ***
 A list of frequently asked questions
@@ -46,9 +46,7 @@ A list of frequently asked questions
 Answer of the first question with _italic words_. 
 2. __Second question in bold__ 
 To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
+
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
