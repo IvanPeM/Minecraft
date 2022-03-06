@@ -13,10 +13,11 @@ En Visual se tiene que solo abrir una sola carpeta y trabajar solo con esa. Al e
 ```
 $ git init
 ```
-
-```js
-"use strict";
-const moment = require("moment");
+Para que se enlace con GitHub se tiene que indicar en la terminal hacia donde lo quieres enviar.
+```
+$ git config --global user.email (your email)
+$ git config --global user.name "Name"
+git remote add origin (enlace del repositorio)
 ```
 
 ### Cabecera 3
