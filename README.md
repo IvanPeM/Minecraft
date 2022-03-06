@@ -26,7 +26,7 @@ git remote add origin (enlace del repositorio)
 ### Cabecera 3
 
 |Cabecera1|Cabecera2|Cabecera3
-|---|---|---|
+|---|:---:|---:|
 |Hola|Hola|Hola|
 
 ### Screenshot
@@ -52,6 +52,3 @@ To answer this question we use an unordered list:
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
