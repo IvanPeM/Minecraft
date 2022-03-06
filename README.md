@@ -6,20 +6,23 @@
 2. En Visual Studio descargar dos plugins que son GitLens y Git Graph
 3. Y reiniciar el ordenador
 
-- Esto es una lista
-    - 2º elemento
 
 En Visual se tiene que solo abrir una sola carpeta y trabajar solo con esa. Al estar dentro en la terminal utilizaremos este comando
+
 ```
 $ git init
 ```
+
 Para que se enlace con GitHub se tiene que indicar en la terminal hacia donde lo quieres enviar.
+
 ```
 $ git config --global user.email (your email)
 $ git config --global user.name "Name"
 git remote add origin (enlace del repositorio)
 ```
 
+- Esto es una lista
+    - 2º elemento
 ### Cabecera 3
 
 |Cabecera1|Cabecera2|Cabecera3
