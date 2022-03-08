@@ -21,6 +21,7 @@ Para que se enlace con GitHub se tiene que indicar en la terminal hacia donde lo
 $ git config --global user.email (your email)
 $ git config --global user.name "Name"
 git remote add origin (enlace del repositorio)
+git clone (url de GitHub)
 ```
 
 - Esto es una lista
