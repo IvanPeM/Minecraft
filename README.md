@@ -21,9 +21,17 @@ Para que se enlace con GitHub se tiene que indicar en la terminal hacia donde lo
 $ git config --global user.email (your email)
 $ git config --global user.name "Name"
 git remote add origin (enlace del repositorio)
+```
+
+Este comando hace un clon de lo que tengas en la url que indiques de tu GitHub
+```
 git clone (url de GitHub)
 ```
 
+***
+![Image text](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png)
+
+***
 - Esto es una lista
     - 2º elemento
 ### Cabecera 3
@@ -31,10 +39,6 @@ git clone (url de GitHub)
 |Cabecera1|Cabecera2|Cabecera3
 |---|:---:|---:|
 |Hola|Hola|Hola|
-
-***
-![Image text](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png)
-
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
